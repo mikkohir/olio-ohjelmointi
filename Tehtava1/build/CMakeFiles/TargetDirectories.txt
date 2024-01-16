@@ -1,0 +1,7 @@
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/Tehtava1.dir
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/edit_cache.dir
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/rebuild_cache.dir
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/list_install_components.dir
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/install.dir
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/install/local.dir
+C:/Work/olio-ohjelmointi/Tehtava1/build/CMakeFiles/install/strip.dir
