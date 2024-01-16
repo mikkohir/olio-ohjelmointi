@@ -6,7 +6,7 @@ using namespace std;
 int game(int maxnum){
     int answer=0;
     srand(time(0));
-    int randomNum = rand() % maxnum;
+    int randomNum = rand() % maxnum + 1;
     int tries = 0;
     while(answer != randomNum){
         cout << "Guess which number's on my mind. The value of my number ranges from 0 to " << maxnum << "." << endl;
