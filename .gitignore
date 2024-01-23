@@ -1,2 +1,5 @@
-testi/build/
-testi/*.user
+*/build/
+*/*.user
+
+*/build/
+*/*.user
