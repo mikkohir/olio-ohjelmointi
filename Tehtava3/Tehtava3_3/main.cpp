@@ -5,7 +5,7 @@
 int main()
 {
     Chef cook("Jyrki");
-    ItalianChef cook2("Mario")
+    ItalianChef cook2("Mario");
     cook.makeSalad();
     cook.makeSoup();
     cook2.makePasta();
