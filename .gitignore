@@ -1,5 +1,14 @@
 */build/
 */*.user
 
+/Tehtava4/Tehtava4-1/build/
+/Tehtava4/Tehtava4-2/build/
+/Tehtava4/Tehtava4-3/build/
+
+/Tehtava4/Tehtava4-1/*.user
+/Tehtava4/Tehtava4-2/*.user
+/Tehtava4/Tehtava4-3/*.user
+
+
 */build/
 */*.user
